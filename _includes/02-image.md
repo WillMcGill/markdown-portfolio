@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Photo of Will McGill](https://github.com/WillMcGill/Hosted-Files/blob/master/profile%20pic.png?raw=true)
